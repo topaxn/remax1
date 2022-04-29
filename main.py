@@ -1,11 +1,11 @@
 import asyncio
 from pytgcalls import idle
 from config import call_py
-from MusicTelethon.التشغيل import arq
+from MusicTop.التشغيل import arq
 async def main():
     await call_py.start()
     print("""    ------------------
-   | ميوزك تليثون الان شغال ! |
+   | ميوزك توب الان شغال ! |
     ------------------"""    )
     print("""
 🟥🟥🟥🟥🟥🟥
